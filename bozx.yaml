@@ -140,10 +140,30 @@ proxies:
     - { name: '🇧🇴 玻利维亚38', type: socks5, server: 106.75.152.119, port: 889, username: 9b9d4b2c-0b8629de-9a4cc0, password: mobile-bo--- }
     - { name: '🇧🇴 玻利维亚39', type: socks5, server: 106.75.152.119, port: 881, username: 9b9d4b2c-0b8629de-7dc091, password: mobile-bo--- }
     - { name: '🇧🇴 玻利维亚40', type: socks5, server: 106.75.152.119, port: 881, username: 9b9d4b2c-0b8629de-d73585, password: mobile-bo--- }
+    - { name: '🇧🇴 玻利维亚41', type: socks5, server: 106.75.152.119, port: 880, username: 9b9d4b2c-0b8629de-rand, password: mobile-bo--- }
+    - { name: '🇧🇴 玻利维亚42', type: socks5, server: 106.75.152.119, port: 881, username: 9b9d4b2c-0b8629de-rand, password: mobile-bo--- }
+    - { name: '🇧🇴 玻利维亚43', type: socks5, server: 106.75.152.119, port: 882, username: 9b9d4b2c-0b8629de-rand, password: mobile-bo--- }
+    - { name: '🇧🇴 玻利维亚44', type: socks5, server: 106.75.152.119, port: 883, username: 9b9d4b2c-0b8629de-rand, password: mobile-bo--- }
+    - { name: '🇧🇴 玻利维亚45', type: socks5, server: 106.75.152.119, port: 884, username: 9b9d4b2c-0b8629de-rand, password: mobile-bo--- }
+    - { name: '🇧🇴 玻利维亚46', type: socks5, server: 106.75.152.119, port: 885, username: 9b9d4b2c-0b8629de-rand, password: mobile-bo--- }
+    - { name: '🇧🇴 玻利维亚47', type: socks5, server: 106.75.152.119, port: 886, username: 9b9d4b2c-0b8629de-rand, password: mobile-bo--- }
+    - { name: '🇧🇴 玻利维亚48', type: socks5, server: 106.75.152.119, port: 887, username: 9b9d4b2c-0b8629de-rand, password: mobile-bo--- }
+    - { name: '🇧🇴 玻利维亚49', type: socks5, server: 106.75.152.119, port: 888, username: 9b9d4b2c-0b8629de-rand, password: mobile-bo--- }
+    - { name: '🇧🇴 玻利维亚50', type: socks5, server: 106.75.152.119, port: 889, username: 9b9d4b2c-0b8629de-rand, password: mobile-bo--- }
+    - { name: '🇧🇴 玻利维亚51', type: socks5, server: 106.75.152.119, port: 1000, username: 9b9d4b2c-0b8629de-rand, password: wifi-bo-10-- }
+    - { name: '🇧🇴 玻利维亚52', type: socks5, server: 106.75.152.119, port: 1001, username: 9b9d4b2c-0b8629de-rand, password: wifi-bo-10-- }
+    - { name: '🇧🇴 玻利维亚53', type: socks5, server: 106.75.152.119, port: 1002, username: 9b9d4b2c-0b8629de-rand, password: wifi-bo-10-- }
+    - { name: '🇧🇴 玻利维亚54', type: socks5, server: 106.75.152.119, port: 1003, username: 9b9d4b2c-0b8629de-rand, password: wifi-bo-10-- }
+    - { name: '🇧🇴 玻利维亚55', type: socks5, server: 106.75.152.119, port: 1004, username: 9b9d4b2c-0b8629de-rand, password: wifi-bo-10-- }
+    - { name: '🇧🇴 玻利维亚56', type: socks5, server: 106.75.152.119, port: 1005, username: 9b9d4b2c-0b8629de-rand, password: wifi-bo-10-- }
+    - { name: '🇧🇴 玻利维亚57', type: socks5, server: 106.75.152.119, port: 1006, username: 9b9d4b2c-0b8629de-rand, password: wifi-bo-10-- }
+    - { name: '🇧🇴 玻利维亚58', type: socks5, server: 106.75.152.119, port: 1007, username: 9b9d4b2c-0b8629de-rand, password: wifi-bo-10-- }
+    - { name: '🇧🇴 玻利维亚59', type: socks5, server: 106.75.152.119, port: 1008, username: 9b9d4b2c-0b8629de-rand, password: wifi-bo-10-- }
+    - { name: '🇧🇴 玻利维亚60', type: socks5, server: 106.75.152.119, port: 1009, username: 9b9d4b2c-0b8629de-rand, password: wifi-bo-10-- }
 
 proxy-groups:
     - { name: '♻️ 手动切换', type: select, proxies: ['DIRECT', '🇭🇰 香港 01丨1x HK', '🇭🇰 香港 02丨1x HK', '🇭🇰 香港 03丨1x HK', '🇭🇰 香港家宽 01丨1x HK', '🇭🇰 香港家宽 02丨1x HK', '🇭🇰 香港家宽 03丨1x HK', '🇭🇰 香港家宽 04丨1x HK', '🇭🇰 香港游戏丨2x HK', '🇸🇬 新加坡 01丨1x SG', '🇸🇬 新加坡 02丨1x SG', '🇸🇬 新加坡 03丨1x SG', '🇸🇬 新加坡家宽 01丨10x SG', '🇸🇬 新加坡家宽 02丨10x SG', '🇯🇵 日本 01丨1x JP', '🇯🇵 日本 02丨1x JP', '🇯🇵 日本 03丨1x JP', '🇯🇵 日本家宽 01丨3x JP', '🇯🇵 日本家宽 02丨3x JP', '🇯🇵 日本家宽 03丨3x JP', '🇯🇵 日本家宽 04丨3x JP', '🇯🇵 日本家宽 05丨3x JP', '🇯🇵 日本家宽 06丨3x JP', '🇯🇵 日本家宽 07丨3x JP', '🇯🇵 日本家宽 08丨3x JP', '🇯🇵 日本家宽 09丨3x JP', '🇯🇵 日本家宽 10丨3x JP', '🇯🇵 日本家宽 11丨3x JP', '🇯🇵 日本游戏丨2x JP', '🇯🇵 日本-5G网络丨10x JP', '🇯🇵 日本-星链丨10x JP', '🇺🇸 美国-实验节点丨1x US', '🇺🇸 美国-费城丨1x US', '🇺🇸 美国-纽约 01丨1x US', '🇺🇸 美国-纽约 02丨1x US', '🇺🇸 美国-纽约 03丨1x US', '🇺🇸 美国-洛杉矶 01丨1x US', '🇺🇸 美国-洛杉矶 02丨1x US', '🇺🇸 美国-洛杉矶 03丨1x US', '🇺🇸 美国-洛杉矶 04丨1x US', '🇺🇸 美国-洛杉矶 05丨1x US', '🇺🇸 美国-洛杉矶 06丨1x US', '🇺🇸 美国-盐湖城丨1x US', '🇺🇸 美国-圣何塞丨5x US', '🇺🇸 美国-迈阿密丨1x US', '🇺🇸 美国-西雅图丨1x US', '🇺🇸 美国-檀香山丨3x US', '🇺🇸 美国-旧金山丨1x US', '🇺🇸 美国-凤凰城丨1x US', '🇺🇸 美国-达拉斯丨1x US', '🇺🇸 美国-休斯顿丨1x US', '🇺🇸 美国-芝加哥丨1x US', '🇺🇸 美国-夏洛特丨1x US', '🇺🇸 美国-斯波坎丨1x US', '🇺🇸 美国-阿什本丨1x US', '🇺🇸 美国-拉斯维加斯丨1x US', '🇺🇸 美国-家宽 01丨5x US', '🇺🇸 美国-家宽 02丨5x US', '🇺🇸 美国-家宽 03丨5x US', '🇺🇸 美国-家宽 04丨5x US', '🇺🇸 美国-家宽 05丨5x US', '🇺🇸 美国-家宽 06丨5x US', '🇺🇸 美国-星链丨10x US'] }
-    - { name: '🔎 Google', type: select, proxies: ['♻️ 手动切换', 'DIRECT', '🇧🇴 玻利维亚1', '🇧🇴 玻利维亚2', '🇧🇴 玻利维亚3', '🇧🇴 玻利维亚4', '🇧🇴 玻利维亚5', '🇧🇴 玻利维亚6', '🇧🇴 玻利维亚7', '🇧🇴 玻利维亚8', '🇧🇴 玻利维亚9', '🇧🇴 玻利维亚10', '🇧🇴 玻利维亚11', '🇧🇴 玻利维亚12', '🇧🇴 玻利维亚13', '🇧🇴 玻利维亚14', '🇧🇴 玻利维亚15', '🇧🇴 玻利维亚16', '🇧🇴 玻利维亚17', '🇧🇴 玻利维亚18', '🇧🇴 玻利维亚19', '🇧🇴 玻利维亚20', '🇧🇴 玻利维亚21', '🇧🇴 玻利维亚22', '🇧🇴 玻利维亚23', '🇧🇴 玻利维亚24', '🇧🇴 玻利维亚25', '🇧🇴 玻利维亚26', '🇧🇴 玻利维亚27', '🇧🇴 玻利维亚28', '🇧🇴 玻利维亚29', '🇧🇴 玻利维亚30', '🇧🇴 玻利维亚31', '🇧🇴 玻利维亚32', '🇧🇴 玻利维亚33', '🇧🇴 玻利维亚34', '🇧🇴 玻利维亚35', '🇧🇴 玻利维亚36', '🇧🇴 玻利维亚37', '🇧🇴 玻利维亚38', '🇧🇴 玻利维亚39', '🇧🇴 玻利维亚40'] }
+    - { name: '🔎 Google', type: select, proxies: ['♻️ 手动切换', 'DIRECT', '🇧🇴 玻利维亚1', '🇧🇴 玻利维亚2', '🇧🇴 玻利维亚3', '🇧🇴 玻利维亚4', '🇧🇴 玻利维亚5', '🇧🇴 玻利维亚6', '🇧🇴 玻利维亚7', '🇧🇴 玻利维亚8', '🇧🇴 玻利维亚9', '🇧🇴 玻利维亚10', '🇧🇴 玻利维亚11', '🇧🇴 玻利维亚12', '🇧🇴 玻利维亚13', '🇧🇴 玻利维亚14', '🇧🇴 玻利维亚15', '🇧🇴 玻利维亚16', '🇧🇴 玻利维亚17', '🇧🇴 玻利维亚18', '🇧🇴 玻利维亚19', '🇧🇴 玻利维亚20', '🇧🇴 玻利维亚21', '🇧🇴 玻利维亚22', '🇧🇴 玻利维亚23', '🇧🇴 玻利维亚24', '🇧🇴 玻利维亚25', '🇧🇴 玻利维亚26', '🇧🇴 玻利维亚27', '🇧🇴 玻利维亚28', '🇧🇴 玻利维亚29', '🇧🇴 玻利维亚30', '🇧🇴 玻利维亚31', '🇧🇴 玻利维亚32', '🇧🇴 玻利维亚33', '🇧🇴 玻利维亚34', '🇧🇴 玻利维亚35', '🇧🇴 玻利维亚36', '🇧🇴 玻利维亚37', '🇧🇴 玻利维亚38', '🇧🇴 玻利维亚39', '🇧🇴 玻利维亚40', '🇧🇴 玻利维亚41', '🇧🇴 玻利维亚42', '🇧🇴 玻利维亚43', '🇧🇴 玻利维亚44', '🇧🇴 玻利维亚45', '🇧🇴 玻利维亚46', '🇧🇴 玻利维亚47', '🇧🇴 玻利维亚48', '🇧🇴 玻利维亚49', '🇧🇴 玻利维亚50', '🇧🇴 玻利维亚51', '🇧🇴 玻利维亚52', '🇧🇴 玻利维亚53', '🇧🇴 玻利维亚54', '🇧🇴 玻利维亚55', '🇧🇴 玻利维亚56', '🇧🇴 玻利维亚57', '🇧🇴 玻利维亚58', '🇧🇴 玻利维亚59', '🇧🇴 玻利维亚60'] }
 
 rules:
     - 'DOMAIN,rama991.siamparagon.org,♻️ 手动切换'
