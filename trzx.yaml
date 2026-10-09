@@ -100,60 +100,70 @@ proxies:
     - { name: '🇺🇸 美国-家宽 05丨5x US', type: ss, server: ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com, port: 13301, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, plugin: obfs, plugin-opts: { mode: http, host: dc64be00e3a2.microsoft.com }, udp: true }
     - { name: '🇺🇸 美国-家宽 06丨5x US', type: ss, server: ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com, port: 13302, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, plugin: obfs, plugin-opts: { mode: http, host: dc64be00e3a2.microsoft.com }, udp: true }
     - { name: '🇺🇸 美国-星链丨10x US', type: ss, server: ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com, port: 13232, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, plugin: obfs, plugin-opts: { mode: http, host: dc64be00e3a2.microsoft.com }, udp: true }
-    - { name: '🇹🇷 土耳其1', type: socks5, server: 106.75.152.119, port: 880, username: 9b9d4b2c-0b8629de-897308, password: mobile-tr--- }
-    - { name: '🇹🇷 土耳其2', type: socks5, server: 106.75.152.119, port: 881, username: 9b9d4b2c-0b8629de-7ba349, password: mobile-tr--- }
-    - { name: '🇹🇷 土耳其3', type: socks5, server: 106.75.152.119, port: 882, username: 9b9d4b2c-0b8629de-cbb969, password: mobile-tr--- }
-    - { name: '🇹🇷 土耳其4', type: socks5, server: 106.75.152.119, port: 883, username: 9b9d4b2c-0b8629de-06e62d, password: mobile-tr--- }
-    - { name: '🇹🇷 土耳其5', type: socks5, server: 106.75.152.119, port: 884, username: 9b9d4b2c-0b8629de-c83298, password: mobile-tr--- }
-    - { name: '🇹🇷 土耳其6', type: socks5, server: 106.75.152.119, port: 885, username: 9b9d4b2c-0b8629de-23c1c5, password: mobile-tr--- }
-    - { name: '🇹🇷 土耳其7', type: socks5, server: 106.75.152.119, port: 886, username: 9b9d4b2c-0b8629de-f33c16, password: mobile-tr--- }
-    - { name: '🇹🇷 土耳其8', type: socks5, server: 106.75.152.119, port: 887, username: 9b9d4b2c-0b8629de-5b0e36, password: mobile-tr--- }
-    - { name: '🇹🇷 土耳其9', type: socks5, server: 106.75.152.119, port: 888, username: 9b9d4b2c-0b8629de-d5a48f, password: mobile-tr--- }
-    - { name: '🇹🇷 土耳其10', type: socks5, server: 106.75.152.119, port: 889, username: 9b9d4b2c-0b8629de-c82899, password: mobile-tr--- }
-    - { name: '🇹🇷 土耳其11', type: socks5, server: 106.75.152.119, port: 1000, username: 9b9d4b2c-0b8629de-f64a08, password: wifi-tr-10-34-istanbul }
-    - { name: '🇹🇷 土耳其12', type: socks5, server: 106.75.152.119, port: 1001, username: 9b9d4b2c-0b8629de-ab6414, password: wifi-tr-10-34-istanbul }
-    - { name: '🇹🇷 土耳其13', type: socks5, server: 106.75.152.119, port: 1002, username: 9b9d4b2c-0b8629de-a5c88f, password: wifi-tr-10-34-istanbul }
-    - { name: '🇹🇷 土耳其14', type: socks5, server: 106.75.152.119, port: 1003, username: 9b9d4b2c-0b8629de-ce65fd, password: wifi-tr-10-34-istanbul }
-    - { name: '🇹🇷 土耳其15', type: socks5, server: 106.75.152.119, port: 1004, username: 9b9d4b2c-0b8629de-a8ed29, password: wifi-tr-10-34-istanbul }
-    - { name: '🇹🇷 土耳其16', type: socks5, server: 106.75.152.119, port: 1005, username: 9b9d4b2c-0b8629de-f813fd, password: wifi-tr-10-34-istanbul }
-    - { name: '🇹🇷 土耳其17', type: socks5, server: 106.75.152.119, port: 1006, username: 9b9d4b2c-0b8629de-6958e6, password: wifi-tr-10-34-istanbul }
-    - { name: '🇹🇷 土耳其18', type: socks5, server: 106.75.152.119, port: 1007, username: 9b9d4b2c-0b8629de-e02c8a, password: wifi-tr-10-34-istanbul }
-    - { name: '🇹🇷 土耳其19', type: socks5, server: 106.75.152.119, port: 1008, username: 9b9d4b2c-0b8629de-efbf11, password: wifi-tr-10-34-istanbul }
-    - { name: '🇹🇷 土耳其20', type: socks5, server: 106.75.152.119, port: 1009, username: 9b9d4b2c-0b8629de-b1849b, password: wifi-tr-10-34-istanbul }
-    - { name: '🇹🇷 土耳其21', type: socks5, server: 106.75.152.119, port: 880, username: 9b9d4b2c-0b8629de-8c4884, password: mobile-tr--istanbul-istanbul }
-    - { name: '🇹🇷 土耳其22', type: socks5, server: 106.75.152.119, port: 881, username: 9b9d4b2c-0b8629de-0b4384, password: mobile-tr--istanbul-istanbul }
-    - { name: '🇹🇷 土耳其23', type: socks5, server: 106.75.152.119, port: 882, username: 9b9d4b2c-0b8629de-4be6d0, password: mobile-tr--istanbul-istanbul }
-    - { name: '🇹🇷 土耳其24', type: socks5, server: 106.75.152.119, port: 883, username: 9b9d4b2c-0b8629de-4eae12, password: mobile-tr--istanbul-istanbul }
-    - { name: '🇹🇷 土耳其25', type: socks5, server: 106.75.152.119, port: 884, username: 9b9d4b2c-0b8629de-87365d, password: mobile-tr--istanbul-istanbul }
-    - { name: '🇹🇷 土耳其26', type: socks5, server: 106.75.152.119, port: 885, username: 9b9d4b2c-0b8629de-c7ff11, password: mobile-tr--istanbul-istanbul }
-    - { name: '🇹🇷 土耳其27', type: socks5, server: 106.75.152.119, port: 886, username: 9b9d4b2c-0b8629de-b82064, password: mobile-tr--istanbul-istanbul }
-    - { name: '🇹🇷 土耳其28', type: socks5, server: 106.75.152.119, port: 887, username: 9b9d4b2c-0b8629de-2d4b31, password: mobile-tr--istanbul-istanbul }
-    - { name: '🇹🇷 土耳其29', type: socks5, server: 106.75.152.119, port: 888, username: 9b9d4b2c-0b8629de-b2efca, password: mobile-tr--istanbul-istanbul }
-    - { name: '🇹🇷 土耳其30', type: socks5, server: 106.75.152.119, port: 889, username: 9b9d4b2c-0b8629de-15fa36, password: mobile-tr--istanbul-istanbul }
-    - { name: '🇹🇷 土耳其31', type: socks5, server: 106.75.152.119, port: 1000, username: 9b9d4b2c-0b8629de-rand, password: wifi-tr-10-- }
-    - { name: '🇹🇷 土耳其32', type: socks5, server: 106.75.152.119, port: 1001, username: 9b9d4b2c-0b8629de-rand, password: wifi-tr-10-- }
-    - { name: '🇹🇷 土耳其33', type: socks5, server: 106.75.152.119, port: 1002, username: 9b9d4b2c-0b8629de-rand, password: wifi-tr-10-- }
-    - { name: '🇹🇷 土耳其34', type: socks5, server: 106.75.152.119, port: 1003, username: 9b9d4b2c-0b8629de-rand, password: wifi-tr-10-- }
-    - { name: '🇹🇷 土耳其35', type: socks5, server: 106.75.152.119, port: 1004, username: 9b9d4b2c-0b8629de-rand, password: wifi-tr-10-- }
-    - { name: '🇹🇷 土耳其36', type: socks5, server: 106.75.152.119, port: 1005, username: 9b9d4b2c-0b8629de-rand, password: wifi-tr-10-- }
-    - { name: '🇹🇷 土耳其37', type: socks5, server: 106.75.152.119, port: 1006, username: 9b9d4b2c-0b8629de-rand, password: wifi-tr-10-- }
-    - { name: '🇹🇷 土耳其38', type: socks5, server: 106.75.152.119, port: 1007, username: 9b9d4b2c-0b8629de-rand, password: wifi-tr-10-- }
-    - { name: '🇹🇷 土耳其39', type: socks5, server: 106.75.152.119, port: 1008, username: 9b9d4b2c-0b8629de-rand, password: wifi-tr-10-- }
-    - { name: '🇹🇷 土耳其40', type: socks5, server: 106.75.152.119, port: 1009, username: 9b9d4b2c-0b8629de-rand, password: wifi-tr-10-- }
-    - { name: '🇹🇷 土耳其41', type: socks5, server: 106.75.152.119, port: 880, username: 9b9d4b2c-0b8629de-rand, password: mobile-tr--- }
-    - { name: '🇹🇷 土耳其42', type: socks5, server: 106.75.152.119, port: 881, username: 9b9d4b2c-0b8629de-rand, password: mobile-tr--- }
-    - { name: '🇹🇷 土耳其43', type: socks5, server: 106.75.152.119, port: 882, username: 9b9d4b2c-0b8629de-rand, password: mobile-tr--- }
-    - { name: '🇹🇷 土耳其44', type: socks5, server: 106.75.152.119, port: 883, username: 9b9d4b2c-0b8629de-rand, password: mobile-tr--- }
-    - { name: '🇹🇷 土耳其45', type: socks5, server: 106.75.152.119, port: 884, username: 9b9d4b2c-0b8629de-rand, password: mobile-tr--- }
-    - { name: '🇹🇷 土耳其46', type: socks5, server: 106.75.152.119, port: 885, username: 9b9d4b2c-0b8629de-rand, password: mobile-tr--- }
-    - { name: '🇹🇷 土耳其47', type: socks5, server: 106.75.152.119, port: 886, username: 9b9d4b2c-0b8629de-rand, password: mobile-tr--- }
-    - { name: '🇹🇷 土耳其48', type: socks5, server: 106.75.152.119, port: 887, username: 9b9d4b2c-0b8629de-rand, password: mobile-tr--- }
-    - { name: '🇹🇷 土耳其49', type: socks5, server: 106.75.152.119, port: 888, username: 9b9d4b2c-0b8629de-rand, password: mobile-tr--- }
-    - { name: '🇹🇷 土耳其50', type: socks5, server: 106.75.152.119, port: 889, username: 9b9d4b2c-0b8629de-rand, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其1', type: socks5, server: 106.75.134.163, port: 1000, username: 9b9d4b2c-0b8629de-a51aeb, password: wifi-tr-10-- }
+    - { name: '🇹🇷 土耳其2', type: socks5, server: 106.75.134.163, port: 1001, username: 9b9d4b2c-0b8629de-73aba4, password: wifi-tr-10-- }
+    - { name: '🇹🇷 土耳其3', type: socks5, server: 106.75.134.163, port: 1002, username: 9b9d4b2c-0b8629de-289b3f, password: wifi-tr-10-- }
+    - { name: '🇹🇷 土耳其4', type: socks5, server: 106.75.134.163, port: 1003, username: 9b9d4b2c-0b8629de-37bed3, password: wifi-tr-10-- }
+    - { name: '🇹🇷 土耳其5', type: socks5, server: 106.75.134.163, port: 1004, username: 9b9d4b2c-0b8629de-475d58, password: wifi-tr-10-- }
+    - { name: '🇹🇷 土耳其6', type: socks5, server: 106.75.134.163, port: 1005, username: 9b9d4b2c-0b8629de-56b042, password: wifi-tr-10-- }
+    - { name: '🇹🇷 土耳其7', type: socks5, server: 106.75.134.163, port: 1006, username: 9b9d4b2c-0b8629de-bbc9fe, password: wifi-tr-10-- }
+    - { name: '🇹🇷 土耳其8', type: socks5, server: 106.75.134.163, port: 1007, username: 9b9d4b2c-0b8629de-00dbb4, password: wifi-tr-10-- }
+    - { name: '🇹🇷 土耳其9', type: socks5, server: 106.75.134.163, port: 1008, username: 9b9d4b2c-0b8629de-fc6a4e, password: wifi-tr-10-- }
+    - { name: '🇹🇷 土耳其10', type: socks5, server: 106.75.134.163, port: 1009, username: 9b9d4b2c-0b8629de-32461d, password: wifi-tr-10-- }
+    - { name: '🇹🇷 土耳其11', type: socks5, server: 106.75.134.163, port: 1010, username: 9b9d4b2c-0b8629de-b5e464, password: wifi-tr-10-- }
+    - { name: '🇹🇷 土耳其12', type: socks5, server: 106.75.134.163, port: 1000, username: 9b9d4b2c-0b8629de-f26004, password: wifi-tr-10-- }
+    - { name: '🇹🇷 土耳其13', type: socks5, server: 106.75.134.163, port: 1009, username: 9b9d4b2c-0b8629de-247401, password: wifi-tr-10-- }
+    - { name: '🇹🇷 土耳其14', type: socks5, server: 106.75.134.163, port: 1005, username: 9b9d4b2c-0b8629de-974375, password: wifi-tr-10-- }
+    - { name: '🇹🇷 土耳其15', type: socks5, server: 106.75.134.163, port: 1002, username: 9b9d4b2c-0b8629de-4df4d6, password: wifi-tr-10-- }
+    - { name: '🇹🇷 土耳其16', type: socks5, server: 106.75.134.163, port: 1009, username: 9b9d4b2c-0b8629de-d2f6ee, password: wifi-tr-10-- }
+    - { name: '🇹🇷 土耳其17', type: socks5, server: 106.75.134.163, port: 1001, username: 9b9d4b2c-0b8629de-c8e43a, password: wifi-tr-10-- }
+    - { name: '🇹🇷 土耳其18', type: socks5, server: 106.75.134.163, port: 1006, username: 9b9d4b2c-0b8629de-717f22, password: wifi-tr-10-- }
+    - { name: '🇹🇷 土耳其19', type: socks5, server: 106.75.134.163, port: 1005, username: 9b9d4b2c-0b8629de-5f10c3, password: wifi-tr-10-- }
+    - { name: '🇹🇷 土耳其20', type: socks5, server: 106.75.134.163, port: 1002, username: 9b9d4b2c-0b8629de-66ea8e, password: wifi-tr-10-- }
+    - { name: '🇹🇷 土耳其21', type: socks5, server: 106.75.134.163, port: 800, username: 9b9d4b2c-0b8629de-6b5c0d, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其22', type: socks5, server: 106.75.134.163, port: 801, username: 9b9d4b2c-0b8629de-27d211, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其23', type: socks5, server: 106.75.134.163, port: 802, username: 9b9d4b2c-0b8629de-6030fd, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其24', type: socks5, server: 106.75.134.163, port: 803, username: 9b9d4b2c-0b8629de-1a2bb1, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其25', type: socks5, server: 106.75.134.163, port: 804, username: 9b9d4b2c-0b8629de-482879, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其26', type: socks5, server: 106.75.134.163, port: 805, username: 9b9d4b2c-0b8629de-a79206, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其27', type: socks5, server: 106.75.134.163, port: 806, username: 9b9d4b2c-0b8629de-be11fb, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其28', type: socks5, server: 106.75.134.163, port: 807, username: 9b9d4b2c-0b8629de-2292ab, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其29', type: socks5, server: 106.75.134.163, port: 808, username: 9b9d4b2c-0b8629de-c12317, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其30', type: socks5, server: 106.75.134.163, port: 809, username: 9b9d4b2c-0b8629de-376487, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其31', type: socks5, server: 106.75.134.163, port: 810, username: 9b9d4b2c-0b8629de-f58aaa, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其32', type: socks5, server: 106.75.134.163, port: 805, username: 9b9d4b2c-0b8629de-e09643, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其33', type: socks5, server: 106.75.134.163, port: 808, username: 9b9d4b2c-0b8629de-20fcd0, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其34', type: socks5, server: 106.75.134.163, port: 806, username: 9b9d4b2c-0b8629de-8c9612, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其35', type: socks5, server: 106.75.134.163, port: 809, username: 9b9d4b2c-0b8629de-173e7b, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其36', type: socks5, server: 106.75.134.163, port: 808, username: 9b9d4b2c-0b8629de-3baed3, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其37', type: socks5, server: 106.75.134.163, port: 804, username: 9b9d4b2c-0b8629de-7bc196, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其38', type: socks5, server: 106.75.134.163, port: 800, username: 9b9d4b2c-0b8629de-b15000, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其39', type: socks5, server: 106.75.134.163, port: 802, username: 9b9d4b2c-0b8629de-47ebdd, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其40', type: socks5, server: 106.75.134.163, port: 810, username: 9b9d4b2c-0b8629de-ccdaf5, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其41', type: socks5, server: 106.75.134.163, port: 800, username: 9b9d4b2c-0b8629de-rand, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其42', type: socks5, server: 106.75.134.163, port: 801, username: 9b9d4b2c-0b8629de-rand, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其43', type: socks5, server: 106.75.134.163, port: 802, username: 9b9d4b2c-0b8629de-rand, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其44', type: socks5, server: 106.75.134.163, port: 803, username: 9b9d4b2c-0b8629de-rand, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其45', type: socks5, server: 106.75.134.163, port: 804, username: 9b9d4b2c-0b8629de-rand, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其46', type: socks5, server: 106.75.134.163, port: 805, username: 9b9d4b2c-0b8629de-rand, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其47', type: socks5, server: 106.75.134.163, port: 806, username: 9b9d4b2c-0b8629de-rand, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其48', type: socks5, server: 106.75.134.163, port: 807, username: 9b9d4b2c-0b8629de-rand, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其49', type: socks5, server: 106.75.134.163, port: 808, username: 9b9d4b2c-0b8629de-rand, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其50', type: socks5, server: 106.75.134.163, port: 809, username: 9b9d4b2c-0b8629de-rand, password: mobile-tr--- }
+    - { name: '🇹🇷 土耳其51', type: socks5, server: 106.75.134.163, port: 1000, username: 9b9d4b2c-0b8629de-8e1c3b, password: wifi-tr-10-34- }
+    - { name: '🇹🇷 土耳其52', type: socks5, server: 106.75.134.163, port: 1001, username: 9b9d4b2c-0b8629de-3a0993, password: wifi-tr-10-34- }
+    - { name: '🇹🇷 土耳其53', type: socks5, server: 106.75.134.163, port: 1002, username: 9b9d4b2c-0b8629de-c57707, password: wifi-tr-10-34- }
+    - { name: '🇹🇷 土耳其54', type: socks5, server: 106.75.134.163, port: 1003, username: 9b9d4b2c-0b8629de-c52503, password: wifi-tr-10-34- }
+    - { name: '🇹🇷 土耳其55', type: socks5, server: 106.75.134.163, port: 1004, username: 9b9d4b2c-0b8629de-e997ae, password: wifi-tr-10-34- }
+    - { name: '🇹🇷 土耳其56', type: socks5, server: 106.75.134.163, port: 1005, username: 9b9d4b2c-0b8629de-7bfe02, password: wifi-tr-10-34- }
+    - { name: '🇹🇷 土耳其57', type: socks5, server: 106.75.134.163, port: 1006, username: 9b9d4b2c-0b8629de-a7357f, password: wifi-tr-10-34- }
+    - { name: '🇹🇷 土耳其58', type: socks5, server: 106.75.134.163, port: 1007, username: 9b9d4b2c-0b8629de-b1440c, password: wifi-tr-10-34- }
+    - { name: '🇹🇷 土耳其59', type: socks5, server: 106.75.134.163, port: 1008, username: 9b9d4b2c-0b8629de-824c91, password: wifi-tr-10-34- }
+    - { name: '🇹🇷 土耳其60', type: socks5, server: 106.75.134.163, port: 1009, username: 9b9d4b2c-0b8629de-e3b5e1, password: wifi-tr-10-34- }
 
 proxy-groups:
     - { name: '♻️ 手动切换', type: select, proxies: ['DIRECT', '🇭🇰 香港 01丨1x HK', '🇭🇰 香港 02丨1x HK', '🇭🇰 香港 03丨1x HK', '🇭🇰 香港家宽 01丨1x HK', '🇭🇰 香港家宽 02丨1x HK', '🇭🇰 香港家宽 03丨1x HK', '🇭🇰 香港家宽 04丨1x HK', '🇭🇰 香港游戏丨2x HK', '🇸🇬 新加坡 01丨1x SG', '🇸🇬 新加坡 02丨1x SG', '🇸🇬 新加坡 03丨1x SG', '🇸🇬 新加坡家宽 01丨10x SG', '🇸🇬 新加坡家宽 02丨10x SG', '🇯🇵 日本 01丨1x JP', '🇯🇵 日本 02丨1x JP', '🇯🇵 日本 03丨1x JP', '🇯🇵 日本家宽 01丨3x JP', '🇯🇵 日本家宽 02丨3x JP', '🇯🇵 日本家宽 03丨3x JP', '🇯🇵 日本家宽 04丨3x JP', '🇯🇵 日本家宽 05丨3x JP', '🇯🇵 日本家宽 06丨3x JP', '🇯🇵 日本家宽 07丨3x JP', '🇯🇵 日本家宽 08丨3x JP', '🇯🇵 日本家宽 09丨3x JP', '🇯🇵 日本家宽 10丨3x JP', '🇯🇵 日本家宽 11丨3x JP', '🇯🇵 日本游戏丨2x JP', '🇯🇵 日本-5G网络丨10x JP', '🇯🇵 日本-星链丨10x JP', '🇺🇸 美国-实验节点丨1x US', '🇺🇸 美国-费城丨1x US', '🇺🇸 美国-纽约 01丨1x US', '🇺🇸 美国-纽约 02丨1x US', '🇺🇸 美国-纽约 03丨1x US', '🇺🇸 美国-洛杉矶 01丨1x US', '🇺🇸 美国-洛杉矶 02丨1x US', '🇺🇸 美国-洛杉矶 03丨1x US', '🇺🇸 美国-洛杉矶 04丨1x US', '🇺🇸 美国-洛杉矶 05丨1x US', '🇺🇸 美国-洛杉矶 06丨1x US', '🇺🇸 美国-盐湖城丨1x US', '🇺🇸 美国-圣何塞丨5x US', '🇺🇸 美国-迈阿密丨1x US', '🇺🇸 美国-西雅图丨1x US', '🇺🇸 美国-檀香山丨3x US', '🇺🇸 美国-旧金山丨1x US', '🇺🇸 美国-凤凰城丨1x US', '🇺🇸 美国-达拉斯丨1x US', '🇺🇸 美国-休斯顿丨1x US', '🇺🇸 美国-芝加哥丨1x US', '🇺🇸 美国-夏洛特丨1x US', '🇺🇸 美国-斯波坎丨1x US', '🇺🇸 美国-阿什本丨1x US', '🇺🇸 美国-拉斯维加斯丨1x US', '🇺🇸 美国-家宽 01丨5x US', '🇺🇸 美国-家宽 02丨5x US', '🇺🇸 美国-家宽 03丨5x US', '🇺🇸 美国-家宽 04丨5x US', '🇺🇸 美国-家宽 05丨5x US', '🇺🇸 美国-家宽 06丨5x US', '🇺🇸 美国-星链丨10x US'] }
-    - { name: '🔎 Google', type: select, proxies: ['♻️ 手动切换', 'DIRECT', '🇹🇷 土耳其1', '🇹🇷 土耳其2', '🇹🇷 土耳其3', '🇹🇷 土耳其4', '🇹🇷 土耳其5', '🇹🇷 土耳其6', '🇹🇷 土耳其7', '🇹🇷 土耳其8', '🇹🇷 土耳其9', '🇹🇷 土耳其10', '🇹🇷 土耳其11', '🇹🇷 土耳其12', '🇹🇷 土耳其13', '🇹🇷 土耳其14', '🇹🇷 土耳其15', '🇹🇷 土耳其16', '🇹🇷 土耳其17', '🇹🇷 土耳其18', '🇹🇷 土耳其19', '🇹🇷 土耳其20', '🇹🇷 土耳其21', '🇹🇷 土耳其22', '🇹🇷 土耳其23', '🇹🇷 土耳其24', '🇹🇷 土耳其25', '🇹🇷 土耳其26', '🇹🇷 土耳其27', '🇹🇷 土耳其28', '🇹🇷 土耳其29', '🇹🇷 土耳其30', '🇹🇷 土耳其31', '🇹🇷 土耳其32', '🇹🇷 土耳其33', '🇹🇷 土耳其34', '🇹🇷 土耳其35', '🇹🇷 土耳其36', '🇹🇷 土耳其37', '🇹🇷 土耳其38', '🇹🇷 土耳其39', '🇹🇷 土耳其40', '🇹🇷 土耳其41', '🇹🇷 土耳其42', '🇹🇷 土耳其43', '🇹🇷 土耳其44', '🇹🇷 土耳其45', '🇹🇷 土耳其46', '🇹🇷 土耳其47', '🇹🇷 土耳其48', '🇹🇷 土耳其49', '🇹🇷 土耳其50'] }
+    - { name: '🔎 Google', type: select, proxies: ['♻️ 手动切换', 'DIRECT', '🇹🇷 土耳其1', '🇹🇷 土耳其2', '🇹🇷 土耳其3', '🇹🇷 土耳其4', '🇹🇷 土耳其5', '🇹🇷 土耳其6', '🇹🇷 土耳其7', '🇹🇷 土耳其8', '🇹🇷 土耳其9', '🇹🇷 土耳其10', '🇹🇷 土耳其11', '🇹🇷 土耳其12', '🇹🇷 土耳其13', '🇹🇷 土耳其14', '🇹🇷 土耳其15', '🇹🇷 土耳其16', '🇹🇷 土耳其17', '🇹🇷 土耳其18', '🇹🇷 土耳其19', '🇹🇷 土耳其20', '🇹🇷 土耳其21', '🇹🇷 土耳其22', '🇹🇷 土耳其23', '🇹🇷 土耳其24', '🇹🇷 土耳其25', '🇹🇷 土耳其26', '🇹🇷 土耳其27', '🇹🇷 土耳其28', '🇹🇷 土耳其29', '🇹🇷 土耳其30', '🇹🇷 土耳其31', '🇹🇷 土耳其32', '🇹🇷 土耳其33', '🇹🇷 土耳其34', '🇹🇷 土耳其35', '🇹🇷 土耳其36', '🇹🇷 土耳其37', '🇹🇷 土耳其38', '🇹🇷 土耳其39', '🇹🇷 土耳其40', '🇹🇷 土耳其41', '🇹🇷 土耳其42', '🇹🇷 土耳其43', '🇹🇷 土耳其44', '🇹🇷 土耳其45', '🇹🇷 土耳其46', '🇹🇷 土耳其47', '🇹🇷 土耳其48', '🇹🇷 土耳其49', '🇹🇷 土耳其50', '🇹🇷 土耳其51', '🇹🇷 土耳其52', '🇹🇷 土耳其53', '🇹🇷 土耳其54', '🇹🇷 土耳其55', '🇹🇷 土耳其56', '🇹🇷 土耳其57', '🇹🇷 土耳其58', '🇹🇷 土耳其59', '🇹🇷 土耳其60'] }
 
 rules:
     - 'DOMAIN,rama991.siamparagon.org,♻️ 手动切换'
