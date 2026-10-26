@@ -43,6 +43,8 @@ dns:
         - '+.definition-meaning.top'
         - '+.sfr-bouygues.cloud'
         - '+.portail-offres.top'
+    proxy-server-nameserver:
+        - udp://127.0.0.1:9053
 
 proxies:
     - { name: '🇭🇰 香港 01丨1x HK', type: ss, server: 7b0bc2e9-ab7e-4279-9627-7d8cebdcdcc6.sankuaei.com, port: 12022, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, plugin: obfs, plugin-opts: { mode: http, host: dc64be00e3a2.microsoft.com }, udp: true }
